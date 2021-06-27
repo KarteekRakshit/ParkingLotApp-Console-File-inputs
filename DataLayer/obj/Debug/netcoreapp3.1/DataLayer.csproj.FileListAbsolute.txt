@@ -1,0 +1,9 @@
+D:\WEB\EldaHealth\Assignment\FileSolution\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.deps.json
+D:\WEB\EldaHealth\Assignment\FileSolution\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.dll
+D:\WEB\EldaHealth\Assignment\FileSolution\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.pdb
+D:\WEB\EldaHealth\Assignment\FileSolution\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.csprojAssemblyReference.cache
+D:\WEB\EldaHealth\Assignment\FileSolution\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.AssemblyInfoInputs.cache
+D:\WEB\EldaHealth\Assignment\FileSolution\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.AssemblyInfo.cs
+D:\WEB\EldaHealth\Assignment\FileSolution\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.csproj.CoreCompileInputs.cache
+D:\WEB\EldaHealth\Assignment\FileSolution\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.dll
+D:\WEB\EldaHealth\Assignment\FileSolution\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.pdb

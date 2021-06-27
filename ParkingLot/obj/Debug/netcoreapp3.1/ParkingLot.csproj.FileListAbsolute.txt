@@ -1,0 +1,13 @@
+D:\WEB\EldaHealth\Assignment\FileSolution\ParkingLot\bin\Debug\netcoreapp3.1\ParkingLot.exe
+D:\WEB\EldaHealth\Assignment\FileSolution\ParkingLot\bin\Debug\netcoreapp3.1\ParkingLot.deps.json
+D:\WEB\EldaHealth\Assignment\FileSolution\ParkingLot\bin\Debug\netcoreapp3.1\ParkingLot.runtimeconfig.json
+D:\WEB\EldaHealth\Assignment\FileSolution\ParkingLot\bin\Debug\netcoreapp3.1\ParkingLot.runtimeconfig.dev.json
+D:\WEB\EldaHealth\Assignment\FileSolution\ParkingLot\bin\Debug\netcoreapp3.1\ParkingLot.dll
+D:\WEB\EldaHealth\Assignment\FileSolution\ParkingLot\bin\Debug\netcoreapp3.1\ParkingLot.pdb
+D:\WEB\EldaHealth\Assignment\FileSolution\ParkingLot\obj\Debug\netcoreapp3.1\ParkingLot.csprojAssemblyReference.cache
+D:\WEB\EldaHealth\Assignment\FileSolution\ParkingLot\obj\Debug\netcoreapp3.1\ParkingLot.AssemblyInfoInputs.cache
+D:\WEB\EldaHealth\Assignment\FileSolution\ParkingLot\obj\Debug\netcoreapp3.1\ParkingLot.AssemblyInfo.cs
+D:\WEB\EldaHealth\Assignment\FileSolution\ParkingLot\obj\Debug\netcoreapp3.1\ParkingLot.csproj.CoreCompileInputs.cache
+D:\WEB\EldaHealth\Assignment\FileSolution\ParkingLot\obj\Debug\netcoreapp3.1\ParkingLot.dll
+D:\WEB\EldaHealth\Assignment\FileSolution\ParkingLot\obj\Debug\netcoreapp3.1\ParkingLot.pdb
+D:\WEB\EldaHealth\Assignment\FileSolution\ParkingLot\obj\Debug\netcoreapp3.1\ParkingLot.genruntimeconfig.cache

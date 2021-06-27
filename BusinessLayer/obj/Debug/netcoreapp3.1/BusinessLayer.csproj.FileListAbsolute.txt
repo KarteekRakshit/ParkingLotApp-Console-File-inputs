@@ -1,0 +1,12 @@
+D:\WEB\EldaHealth\Assignment\FileSolution\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.deps.json
+D:\WEB\EldaHealth\Assignment\FileSolution\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.dll
+D:\WEB\EldaHealth\Assignment\FileSolution\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
+D:\WEB\EldaHealth\Assignment\FileSolution\BusinessLayer\bin\Debug\netcoreapp3.1\DataLayer.dll
+D:\WEB\EldaHealth\Assignment\FileSolution\BusinessLayer\bin\Debug\netcoreapp3.1\DataLayer.pdb
+D:\WEB\EldaHealth\Assignment\FileSolution\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csprojAssemblyReference.cache
+D:\WEB\EldaHealth\Assignment\FileSolution\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfoInputs.cache
+D:\WEB\EldaHealth\Assignment\FileSolution\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfo.cs
+D:\WEB\EldaHealth\Assignment\FileSolution\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\WEB\EldaHealth\Assignment\FileSolution\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CopyComplete
+D:\WEB\EldaHealth\Assignment\FileSolution\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.dll
+D:\WEB\EldaHealth\Assignment\FileSolution\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.pdb
